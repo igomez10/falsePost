@@ -1,4 +1,4 @@
 while true
 do
-node ./postfalse.js
+node ./falsepost.js
 done
