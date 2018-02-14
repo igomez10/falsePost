@@ -1,5 +1,5 @@
 # falsePost
-A tool to make unlimited posts to regular uniandes phishing sites 
+Generate fake user data and make unlmited posts to common uniandes phishing sites 
 
 ## How to get it 
 ### Install "request" package dependency ⬇️
