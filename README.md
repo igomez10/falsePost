@@ -1,7 +1,7 @@
 # falsePost
 Generate fake user data and make unlmited posts to common uniandes phishing sites 
 
-## How to get it 
+## How to get it working
 ### Install "request" package dependency ⬇️
 ```shell
 $ npm install request
