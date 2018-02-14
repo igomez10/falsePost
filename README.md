@@ -21,12 +21,9 @@ node falsepost.js
 $sh start.sh
 ```
 
-## or
-
-Modify the 
+### Example of logs
 
 
 
 
-
-![alt text](https://github.com/igomez10/falsePost/blob/master/result.png?raw=true "Regression with 17 years of Banana prices")
+![alt text](https://github.com/igomez10/falsePost/blob/master/result.png?raw=true "Logs")
