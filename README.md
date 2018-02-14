@@ -17,8 +17,10 @@ node falsepost.js
 
 
 ### Start Infinite Posting ∞🦄👌
-```shell
-$sh start.sh
+while true
+do
+node falsepost.js
+done
 ```
 
 ### Example of logs
